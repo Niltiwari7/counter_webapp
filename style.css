@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100;
+    height: 100%;
+    background-color: black;
+}
+
+#countLabel{
+    font-size: 300px;
+    line-height: 1px;
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50%;
+  
+}
+
+#decreaseBtn{
+    position: relative;
+    top:70%;
+    left: 35%;
+    font-size: 30px;
+    color: chartreuse;
+}
+
+#ResetBtn{
+    position: relative;
+    top:70%;
+    left: 40%;
+    font-size: 30px;
+    color: chartreuse;
+}
+
+#inecreaseBtn{
+    position: relative;
+    top:70%;
+    left: 45%;
+    font-size: 30px;
+    color: chartreuse;
+}
+
