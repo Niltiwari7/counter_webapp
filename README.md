@@ -27,11 +27,8 @@ The **Counter App** is a simple web application that allows users to increase, d
 2. Open the `index.html` file in your preferred web browser.
 3. Use the "Increase," "Decrease," and "Reset" buttons to interact with the counter.
 
-## Usage
 
-- **Learning Tool:** Ideal for beginners learning HTML, CSS, and JavaScript.
-- **Quick Experiment:** Modify the code to experiment with different styles and behaviors.
-- **Portfolio Addition:** Showcase your coding skills by adding this simple yet functional project to your portfolio.
+
 
 ## Contributing
 
