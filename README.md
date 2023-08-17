@@ -6,7 +6,7 @@
 ![image](https://github.com/Niltiwari7/counter_webapp/assets/93751356/c0f6a018-412e-46b0-8bfc-1c1caececf69)
 ![image](https://github.com/Niltiwari7/counter_webapp/assets/93751356/c51c3779-dfd0-4a73-a428-fcbc0f0645c2)
 
-The **Counter App** is a simple web application that allows users to increase, decrease, and reset a numeric counter value. It's a straightforward project that serves as a great introduction to working with HTML, CSS, and JavaScript. Whether you're just starting out with web development or looking for a quick coding exercise, this project provides a hands-on way to practice essential front-end skills.
+The **Counter App** is a simple web application that allows users to increase, decrease, and reset a numeric counter value. It's a straightforward project that serves as a great introduction to working with HTML, CSS, and JavaScript. 
 
 ## Features
 
